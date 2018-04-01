@@ -14,3 +14,4 @@ In the scripts sections of the Angular project, add the following codes:
 ```
 "api": "mvcng -s \"..\\RelativePathToSourceProject\" -p \"..\\RelativePathToSourceProject\\SourceProject.csproj\" -t src\\app\\services\\mvc-api -a \"AssemblyName1;AssemblyName2\" "
 ```
+The Asseembly names should be separated by semi comma ';'.
