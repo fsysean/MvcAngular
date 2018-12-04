@@ -1,8 +1,8 @@
 # MvcAngular
 
 ## Generator
-Download the following package and extract the files into a folder that is listed in the system Path environmental variable.
-https://github.com/JackYumCha/MvcAngular/releases/tag/MvcAngular.Kernel
+Download the zip file and extract the files into a folder that is listed in the system Path environmental variable.
+
 
 ## Asp.Net Setup
 The asp.net project should add reference to this nuget package:
